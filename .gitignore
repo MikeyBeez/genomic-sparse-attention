@@ -34,6 +34,8 @@ data/real/large_datasets/
 
 # Results and logs
 results/*/
+!results/phase5_definitive/
+!results/phase5_definitive/definitive_4hour_results.json
 logs/
 *.log
 
